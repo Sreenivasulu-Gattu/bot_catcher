@@ -1,0 +1,2 @@
+The bot catcher is hidden input element which is not visible to user.
+If any automated softwares will fill the form data, then automatically it throws some error by using clean_element inthe back-end.
